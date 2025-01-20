@@ -1,0 +1,11 @@
+.header-section {
+  background-image: url('image/pawel-czerwinski-uA6x_MXI_fE-unsplash.jpg'); 
+  background-size: cover; 
+  background-position: center; 
+  background-repeat: no-repeat; 
+  padding: 30px; 
+  border-radius: 10px; 
+}
+.text-center{
+  color: white;
+}
